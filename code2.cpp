@@ -7,5 +7,6 @@ int main() {
 	cout << "test 1" << '\n';
 	cout << "test 11" << '\n';
 	cout << "test 111" << '\n';
+	cout << "test 2" << '\n';
 	return 0;
 }
